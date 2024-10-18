@@ -1,0 +1,83 @@
+.forms_container {
+    min-height: 88vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_container {
+    margin: 20px;
+    min-width: 500px;
+    max-width: 800px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form_container h3 {
+    text-align: center;
+    color: #FFF;
+    font-size: 20pt;
+}
+
+.login_register_form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login_register_form input {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 300px;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 16pt;
+}
+
+.login_register_form .password_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.eye {
+    cursor: pointer;
+    color: #ccc;
+}
+
+.form_buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.form_buttons button {
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    background-color: #2A9DF4;
+    color: #FFF;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.3);
+    cursor: pointer;
+    transition: .3s;
+    font-size: 14pt;
+}
+
+.form_buttons button:hover {
+    background-color: #1C6BA0;
+}
+
+.form_buttons a {
+    font-size: 10pt;
+    text-decoration: none;
+    color: #fff;
+}
