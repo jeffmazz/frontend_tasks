@@ -9,8 +9,8 @@ Construído em React com o propósito de realizar uma lista de tarefas com um si
 
 Inicialmente precisamos ter um usuário cadastrado no banco de dados e após isso realizar o login.
 Caso não possua um cadastro você pode estar realizando um clicando em registro no canto superior direito da página, no menú de navegação.
-Realizando o login você poderá armazenar suas tarefas de forma rápida, atribuílas como concluídas ou pendentes ou até excluí-las da sua lista.
-Trocar a senha também é uma opção. Você pode fazer isso ao passar o mouse sobre a engrenagem localizada no canto superior direito da interface que mudará após a realização do login.
+Realizando o login você poderá armazenar suas tarefas de forma rápida, marcá-las como concluídas ou pendentes ou até excluí-las da sua lista.
+Trocar a senha também é uma opção, você pode fazer isso ao passar o mouse sobre a engrenagem localizada no canto superior direito da interface que mudará após a realização do login.
 lembrando que para que tudo funcione corretamente precisamos também configurar o [backend](https://github.com/jeffmazz/backend_tasks) da aplicação.
 
 ---
