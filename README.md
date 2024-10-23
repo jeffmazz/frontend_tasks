@@ -1,4 +1,4 @@
-# FrontEnd do Projeto Tasks List
+# Front-end do projeto Tasks List
 
 ## Imagens
 
