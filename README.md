@@ -1,5 +1,24 @@
 # FrontEnd do Projeto Tasks List
 
+## Imagens
+
+<details>
+<summary> Login </summary>
+<img src="images/Login.png" alt="Imagem da página de Login" width="500" height="250"/>
+</details>
+<details>
+<summary> Home </summary>
+<img src="images/Home.png" alt="Imagem da Home" width="500" height="250"/>
+</details>
+<details>
+<summary> Botão Gear </summary>
+<img src="images/Gear.png" alt="Funcionalidades presentes no ícone de engrenagem" width="500" height="250"/>
+</details>
+<details>
+<summary> Logout </summary>
+<img src="images/Login.png" alt="Botão que realiza o logout com tooltip" width="500" height="250"/>
+</details>
+
 ## Descrição
 Construído em React com o propósito de realizar uma lista de tarefas com um sistema de autenticação, armazenamento e manipulação de dados utilizando o MySQL como database e este [backend](https://github.com/jeffmazz/backend_tasks) para se relacionar e realizar o processamento dos dados.
 
@@ -141,6 +160,14 @@ lembrando que para que tudo funcione corretamente precisamos também configurar 
 ---
 
 ## Instalação
+- Certifique-se de que tenha o Node e o NPM Instalados.
+- Você pode verificar utilizando os seguintes comandos:
+```bash
+
+node -v
+npm -v
+```
+- Após isso
 ``` bash
 
 // Clone o Repositório
@@ -164,4 +191,5 @@ npm run dev
 ---
 
 ## Considerações Finais
-Caso queira você pode visualizar o projeto por completo clicando [aqui](https://github.com/jeffmazz/backend_tasks) para acessar o backend do projeto.
+Este projeto foi desenvolvido como parte do meu aprendizado e pode estar sujeito a melhorias. Estou aberto a feedbacks e sugestões.
+Caso queira você também pode visualizar o projeto por completo clicando [aqui](https://github.com/jeffmazz/backend_tasks) para acessar o backend.
