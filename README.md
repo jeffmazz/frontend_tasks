@@ -49,7 +49,7 @@ lembrando que para que tudo funcione corretamente precisamos também configurar 
             <ul>
                 <li> 🏠: Acessar a página inicial (home) </li>
                 <li> <strong>Perfil:</strong> Acesso às suas informações </li>
-                <li> <strong>Sair:</strong> Realização de logout fornecido authContext </li>
+                <li> <strong>Sair:</strong> Realização de logout fornecido pelo authContext </li>
                 <li> ⚙️: Opções de alteração de senha e deletar conta
                    <ul>
                        <li> Alteração se senha
