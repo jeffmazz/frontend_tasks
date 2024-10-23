@@ -16,7 +16,7 @@
 </details>
 <details>
 <summary> Logout </summary>
-<img src="images/Login.png" alt="Botão que realiza o logout com tooltip" width="500" height="250"/>
+<img src="images/sign out.png" alt="Botão que realiza o logout com tooltip" width="500" height="250"/>
 </details>
 
 ## Descrição
